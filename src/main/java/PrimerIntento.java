@@ -1,4 +1,3 @@
-
 public class PrimerIntento {
 	public static void main(String[] args) {
 		
@@ -6,6 +5,13 @@ public class PrimerIntento {
 	System.out.println("Hola mundo de putos");
 	
 	System.out.println("Hola Cristian");
+ System.out.println("Adios Cristian");
+
+
+
+
+
+
 
 	
 	}
