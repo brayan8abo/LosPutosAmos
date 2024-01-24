@@ -7,8 +7,7 @@ public class PrimerIntento {
 	
 	System.out.println("Hola Cristian");
 
-jajajjjaajajajaja
-		
+	
 	}
 
 }
