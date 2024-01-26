@@ -1,0 +1,15 @@
+public static boolean comprobacion(int[] array, int numero, int indice) {
+110	  if (numero < 1 || numero > 50) {
+111	   
+112	   System.out.println();
+113	   return false;
+114	  }
+115	
+116	  for (int i = 0; i < indice; i++) {
+117	   if (array[i] == numero) {
+118	    return false;
+119	   }
+120	  }
+121	
+122	  return true;
+123	 }
