@@ -1,5 +1,4 @@
-
-int[] vector2) {
+static int comprobarAciertos(int[] vector1, int[] vector2) {
 90	  int aciertos=0;
 91	  
 92	  for (int i = 0; i < vector2.length; i++) {
