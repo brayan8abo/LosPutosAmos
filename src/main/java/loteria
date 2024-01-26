@@ -1,3 +1,24 @@
+
+int[] vector2) {
+90	  int aciertos=0;
+91	  
+92	  for (int i = 0; i < vector2.length; i++) {
+93	   
+94	   for (int j = 0; j < vector2.length; j++) {
+95	    
+96	    if(vector1[i]==vector2[j]) {
+97	     
+98	     aciertos++;
+99	    }
+100	    
+101	   }
+102	   
+103	  }
+104	
+105	  return aciertos;
+}
+		}
+
 public static boolean comprobacion(int[] array, int numero, int indice) {
 110	  if (numero < 1 || numero > 50) {
 111	   
